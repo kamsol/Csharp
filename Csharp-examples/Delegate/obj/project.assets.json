@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\kambi\\source\\repos\\Csharp-examples\\Delegate\\Delegate.csproj",
+      "projectUniqueName": "C:\\GIT\\Csharp\\Csharp-examples\\Delegate\\Delegate.csproj",
       "projectName": "Delegate",
-      "projectPath": "C:\\Users\\kambi\\source\\repos\\Csharp-examples\\Delegate\\Delegate.csproj",
+      "projectPath": "C:\\GIT\\Csharp\\Csharp-examples\\Delegate\\Delegate.csproj",
       "packagesPath": "C:\\Users\\kambi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kambi\\source\\repos\\Csharp-examples\\Delegate\\obj\\",
+      "outputPath": "C:\\GIT\\Csharp\\Csharp-examples\\Delegate\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

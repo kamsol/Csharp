@@ -25,16 +25,11 @@ namespace Linq
                             select odd;
 
 
-            Console.WriteLine("--- Query style linq --- \n");
-            Console.WriteLine("--- Odd numbers (descending order) --- ");
+            Console.WriteLine("--- Odd numbers  (descending order, 0-14) --- ");
 
-            foreach (var item in oddNumber)
-            {
-                Console.WriteLine(item);
-            }
+            oddNumber.ToList().ForEach(odd => Console.WriteLine(odd));
 
-
-
+            
             
             
             
@@ -49,22 +44,20 @@ namespace Linq
                 Console.WriteLine(item);
             }
 
-            
-            
-            
+                       
             
             
             //Using lambda
             var evenNumber = list.Where(num => num % 2 == 0 && num <= 10);
 
-            Console.WriteLine("\n--- using lambda --- \n");
 
-            Console.WriteLine("--- Even numbers ---");
+            Console.WriteLine("--- Even numbers, 0-10 ---");
 
             foreach (var item in evenNumber)
             {
                 Console.WriteLine(item);
             }
+
 
             var stringList = new List<string> { "88888888", "2", "kambiz", "333" };
             var lengthSum = stringList.Select( x => x.Length);

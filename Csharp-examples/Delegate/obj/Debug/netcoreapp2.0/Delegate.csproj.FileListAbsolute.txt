@@ -9,3 +9,14 @@ C:\Users\kambi\source\repos\Csharp-examples\Delegate\obj\Debug\netcoreapp2.0\Del
 C:\Users\kambi\source\repos\Csharp-examples\Delegate\obj\Debug\netcoreapp2.0\Delegate.AssemblyInfo.cs
 C:\Users\kambi\source\repos\Csharp-examples\Delegate\obj\Debug\netcoreapp2.0\Delegate.dll
 C:\Users\kambi\source\repos\Csharp-examples\Delegate\obj\Debug\netcoreapp2.0\Delegate.pdb
+C:\GIT\Csharp\Csharp-examples\Delegate\bin\Debug\netcoreapp2.0\Delegate.deps.json
+C:\GIT\Csharp\Csharp-examples\Delegate\bin\Debug\netcoreapp2.0\Delegate.runtimeconfig.json
+C:\GIT\Csharp\Csharp-examples\Delegate\bin\Debug\netcoreapp2.0\Delegate.runtimeconfig.dev.json
+C:\GIT\Csharp\Csharp-examples\Delegate\bin\Debug\netcoreapp2.0\Delegate.dll
+C:\GIT\Csharp\Csharp-examples\Delegate\bin\Debug\netcoreapp2.0\Delegate.pdb
+C:\GIT\Csharp\Csharp-examples\Delegate\obj\Debug\netcoreapp2.0\Delegate.csprojResolveAssemblyReference.cache
+C:\GIT\Csharp\Csharp-examples\Delegate\obj\Debug\netcoreapp2.0\Delegate.csproj.CoreCompileInputs.cache
+C:\GIT\Csharp\Csharp-examples\Delegate\obj\Debug\netcoreapp2.0\Delegate.AssemblyInfoInputs.cache
+C:\GIT\Csharp\Csharp-examples\Delegate\obj\Debug\netcoreapp2.0\Delegate.AssemblyInfo.cs
+C:\GIT\Csharp\Csharp-examples\Delegate\obj\Debug\netcoreapp2.0\Delegate.dll
+C:\GIT\Csharp\Csharp-examples\Delegate\obj\Debug\netcoreapp2.0\Delegate.pdb

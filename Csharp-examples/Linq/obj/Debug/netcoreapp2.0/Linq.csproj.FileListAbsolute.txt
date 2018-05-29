@@ -9,3 +9,14 @@ C:\Users\kambi\source\repos\Csharp-examples\Linq\obj\Debug\netcoreapp2.0\Linq.As
 C:\Users\kambi\source\repos\Csharp-examples\Linq\obj\Debug\netcoreapp2.0\Linq.dll
 C:\Users\kambi\source\repos\Csharp-examples\Linq\obj\Debug\netcoreapp2.0\Linq.pdb
 C:\Users\kambi\source\repos\Csharp-examples\Linq\obj\Debug\netcoreapp2.0\Linq.csprojResolveAssemblyReference.cache
+C:\GIT\Csharp\Csharp-examples\Linq\bin\Debug\netcoreapp2.0\Linq.deps.json
+C:\GIT\Csharp\Csharp-examples\Linq\bin\Debug\netcoreapp2.0\Linq.runtimeconfig.json
+C:\GIT\Csharp\Csharp-examples\Linq\bin\Debug\netcoreapp2.0\Linq.runtimeconfig.dev.json
+C:\GIT\Csharp\Csharp-examples\Linq\bin\Debug\netcoreapp2.0\Linq.dll
+C:\GIT\Csharp\Csharp-examples\Linq\bin\Debug\netcoreapp2.0\Linq.pdb
+C:\GIT\Csharp\Csharp-examples\Linq\obj\Debug\netcoreapp2.0\Linq.csprojResolveAssemblyReference.cache
+C:\GIT\Csharp\Csharp-examples\Linq\obj\Debug\netcoreapp2.0\Linq.csproj.CoreCompileInputs.cache
+C:\GIT\Csharp\Csharp-examples\Linq\obj\Debug\netcoreapp2.0\Linq.AssemblyInfoInputs.cache
+C:\GIT\Csharp\Csharp-examples\Linq\obj\Debug\netcoreapp2.0\Linq.AssemblyInfo.cs
+C:\GIT\Csharp\Csharp-examples\Linq\obj\Debug\netcoreapp2.0\Linq.dll
+C:\GIT\Csharp\Csharp-examples\Linq\obj\Debug\netcoreapp2.0\Linq.pdb

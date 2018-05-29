@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\kambi\\source\\repos\\Csharp-examples\\Linq\\Linq.csproj",
+      "projectUniqueName": "C:\\GIT\\Csharp\\Csharp-examples\\Linq\\Linq.csproj",
       "projectName": "Linq",
-      "projectPath": "C:\\Users\\kambi\\source\\repos\\Csharp-examples\\Linq\\Linq.csproj",
+      "projectPath": "C:\\GIT\\Csharp\\Csharp-examples\\Linq\\Linq.csproj",
       "packagesPath": "C:\\Users\\kambi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kambi\\source\\repos\\Csharp-examples\\Linq\\obj\\",
+      "outputPath": "C:\\GIT\\Csharp\\Csharp-examples\\Linq\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
